@@ -1,0 +1,15 @@
+Group,REQUEST_KIND,DISPOSITION_DESC,Diễn giải
+CUSTOMER,IN,CUST IN,Nhận NVL từ Haengsung cấp về để gia công.
+CUSTOMER,OUT,CUST RETURN,Xuất trả lại NVL lỗi hỏng hoặc dư thừa cho Haengsung
+CUSTOMER,OUT,SALE OUT,Xuất thành phẩm gia công cho Haengsung
+CUSTOMER,IN,SALE RETURN,Khách hàng trả lại hàng lỗi
+SUBCON,MOVE,SUB OUT,"Kho chính CK giao NVL cho đơn vị gia công nhỏ như TN,VB,.."
+SUBCON,MOVE,SUB IN,Nhập TP OK từ Subcon trả về CKAD
+SUBCON,MOVE,SUB RETURN,Subcon xuất trả nvl về CK: Có thể hàng OK or NG
+OUT STOCK,OUT,OUT SCRAP,Báo hỏng NVL or TP ko trả lại xác
+OUT STOCK,OUT,ADJUST INVENTORY,Điều chỉnh chênh lệch tồn kho NVL or TP
+OUT STOCK,OUT,OUT REPLACE,Out Replace mã sử dụng thay thế
+IN STOCK,IN,IN REPLACE,In Replace mã sử dụng thay thế
+OUT STOCK,OUT,OUT REPAIR,Sửa chữa mã hàng bị lỗi
+IN STOCK,IN,IN REPAIR,Nhập lại sau sửa chữa
+SUBCON,MOVE,ORG,Chưa setup case này phải In-out thông qua kho chính CKAD

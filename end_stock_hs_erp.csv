@@ -1,0 +1,453 @@
+Mã NVL CK,Period,Org,Item,Item Desc,Uom,Account,Name,Subinv,Locator,Begin Qty,PO Receipt,Nocharge,WIP Comp,Wip Issue,SUBINV IN,SUBINV OUT,Issue Sale,Issue Adjust,Ending,Transfer,Misc Rcpt,Misc Issue,Misc Sub in,Misc Sub Out,Item Trans in,Item Trans out,Org Move in,Org Move Out
+6850EC3006V-C,2026-04,VH1,6850EC3006V-C,"WM FX Best US,,Harness Single,Kepler Washer",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,2000,-,-,-,-19000,17000,-,-,-,-,-,-,-,-,-,-,-,-,-
+6850EC3006X-C,2026-04,VH1,6850EC3006X-C,"WM F/L24,Harness Single,24WT PCB Joint",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,-,-,-,-,-997,1000,-,-,-,3,-,-,-,-,-,-,-,-,-
+7200007556-C,2026-04,VH1,7200007556-C,"ATM Harness,,Harness Multi,HyoSung TNS Main",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,9,-,-,-,-298,289,-,-,-,-,-,-,-,-,-,-,-,-,-
+7200007556-C-TUBC-210,2026-04,VH1,7200007556-C-TUBC-210,"ATM Harness,,Harness Multi,CABLE_ASSY_WIRING HARNESS_MX2600_BODY",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,9,-,-,-,-298,289,-,-,-,-,-,-,-,-,-,-,-,-,-
+7200007689-C,2026-04,VH1,7200007689-C,"ATM Harness,,Harness Multi,HyoSung TNS Main",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,2,-,-,-,-2,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+7200007689-C-TUBC-210,2026-04,VH1,7200007689-C-TUBC-210,"ATM Harness,,Harness Multi,CABLE_ASSY_WIRING HARNESS_MX2800SE_BODY",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,260,,,,,,,,,260,,,,,,,,,
+BAGA00005NA,2026-04,VH1,BAGA00005NA,",,BAG PE,PE BAG 100*150*1T WH(FLAME RETARDANT)-VN",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,1016,-,-,-,-3333,7048,-148,-,-,4583,-,-,-,-,-,-,-,-,-
+BAGA00007NA,2026-04,VH1,BAGA00007NA,",,BAG PE,PE BAG 100*200*1T WH(FLAME RETARDANT)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,14506,-,-,-,-26418,27700,-,-,-,15788,-,-,-,-,-,-,-,-,-
+BAGA00011NA,2026-04,VH1,BAGA00011NA,",,BAG PE,PE BAG 100*280*1T WH(FLAME RETARDANT)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,2006,-,-,-,-,-,-2000,-,-,6,-,-,-,-,-,-,-,-,-
+BAGA00033NA,2026-04,VH1,BAGA00033NA,",,BAG PE,PE BAG 100*140*1T WH (FLAME RETARDANT)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,168,-,-,-,-7534,8500,-,-,-,1134,-,-,-,-,-,-,-,-,-
+BAGC00005NA,2026-04,VH1,BAGC00005NA,",,BAG AIR CAP,50*80",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,416,-,-,-,-2240,5600,-1200,-,-,2576,-,-,-,-,-,-,-,-,-
+BAGD00004NA,2026-04,VH1,BAGD00004NA,",,BAG PVC,T0.0001*170*240",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,699.26,-,-,-,-309.94,415,-20,-,-,784.32,-,-,-,-,-,-,-,-,-
+BNDC00002NA,2026-04,VH1,BNDC00002NA,",,BAND RUBBER,15PHI",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,416,-,-,-,-2240,5600,-1200,-,-,2576,-,-,-,-,-,-,-,-,-
+CATX00032NA,2026-04,VH1,CATX00032NA,",,CABLE TIE ,CMT-150 WH",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3000,-,-,-,-,-,-3000,-,-,-,-,-,-,-,-,-,-,-,-
+CATX00053NA,2026-04,VH1,CATX00053NA,",,CABLE TIE ,PMT-165 BL",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,12108,-,-,-,-6000,9000,-6000,-,-,9108,-,-,-,-,-,-,-,-,-
+CATX00072NA,2026-04,VH1,CATX00072NA,",,CABLE TIE ,CABLE TIE 100MM",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,19045,-,-,-,-21945,24265,-1000,-,-,20365,-,-,-,-,-,-,-,-,-
+CORX00016NA,2026-04,VH1,CORX00016NA,",,CORE,CM3615BG",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,2143,-,-,-,-3314,5200,-,-,-,4029,-,-,-,-,-,-,-,-,-
+CORX00035NA,2026-04,VH1,CORX00035NA,",,CORE ,OP 14A",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,5379,-,-,-,-5314,9200,-1200,-,-,8065,-,-,-,-,-,-,-,-,-
+CORX00038NA,2026-04,VH1,CORX00038NA,",,CORE ,OP 18A",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,2143,-,-,-,-3414,2300,-,-,-,1029,-,-,-,-,-,-,-,-,-
+CORX00081NA,2026-04,VH1,CORX00081NA,",,CORE ,TR 19*13*11 G8A",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6166,-,-,-,-9342,8786,-786,-,-,4824,-,-,-,-,-,-,-,-,-
+CORX00181NA,2026-04,VH1,CORX00181NA,",,CORE,NR23G1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,2143,-,-,-,-3314,5200,-,-,-,4029,-,-,-,-,-,-,-,-,-
+COVC00042NA,2026-04,VH1,COVC00042NA,",,COVER HOUSING(PVC),DDICH-4P-KN",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3232,-,-,-,-3498,3000,-1000,-,-,1734,-,-,-,-,-,-,-,-,-
+COVC00047NA,2026-04,VH1,COVC00047NA,",,COVER HOUSING(PVC),DDICH 6P-N(TI)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3232,-,-,-,-3498,3000,-1000,-,-,1734,-,-,-,-,-,-,-,-,-
+EAD60843547-C,2026-04,VH1,EAD60843547-C,"Dryer Main ELEC,,Harness Multi,Victor2(D) Steam EUS",EA,15411-00,Chi phí SXKD dở dang - gia công @재공품[임가공],35D,35D.E42,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+EAD61212389-C,2026-04,VH1,EAD61212389-C,"WM F/L24,Harness Single,FL24 VX 550 WD",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,-,-,-,-,-100,100,-,-,-,-,-,-,-,-,-,-,-,-,-
+EAD61212398-C,2026-04,VH1,EAD61212398-C,"WM F/L 24,Harness Single,VX Display joint",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,45,-,-,-,-2021,4000,-,-,-,2024,-,-,-,-,-,-,-,-,-
+EAD61749501-C,2026-04,VH1,EAD61749501-C,"Ref,Harness Single,Majesty Pantry PCB joint",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,2000,-,-,-,-1296,-,-,-,-,704,-,-,-,-,-,-,-,-,-
+EAD62061319-C,2026-04,VH1,EAD62061319-C,"WM F/L 24,,Harness Single,Vivace onboarding",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,1500,-,-,-,-2500,3000,-,-,-,2000,-,-,-,-,-,-,-,-,-
+EAD62090005-C,2026-04,VH1,EAD62090005-C,"Ref,,Harness Assembly,Raptor7 (Pillar joint)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,105,-,-,-,-5596,6000,-,-,-,509,-,-,-,-,-,-,-,-,-
+EAD62428629-C,2026-04,VH1,EAD62428629-C,"Ref,,Harness Assembly,Raptor7 (Comp Joint)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,3034,-,-,-,-10958,11000,-,-,-,3076,-,-,-,-,-,-,-,-,-
+EAD62428629-C-TUBA-085,2026-04,VH1,EAD62428629-C-TUBA-085,"Ref,,Harness Assembly,Raptor7 (Comp Joint)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,3034,-,-,-,-10958,11000,-,-,-,3076,-,-,-,-,-,-,-,-,-
+EAD62468244-C,2026-04,VH1,EAD62468244-C,"WM F/L 24,,Harness Single,Victor 2 (Joint) V+",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,8402,-,-,-,-58000,53000,-,-,-,3402,-,-,-,-,-,-,-,-,-
+EAD63647078-C,2026-04,VH1,EAD63647078-C,"Dish Washer XF5,6 Dry Module,Harness Multi,Harness Main",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,-,-,-,-,-270,280,-,-,-,10,-,-,-,-,-,-,-,-,-
+EAD63647078-C-TUBA-083,2026-04,VH1,EAD63647078-C-TUBA-083,"Dish Washer XF5,6 Dry Module,Harness Multi,Harness Main",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,-,-,-,-,-270,280,-,-,-,10,-,-,-,-,-,-,-,-,-
+EAD63707525-C,2026-04,VH1,EAD63707525-C,"Dish Washer XF5,6 Dry Module,Harness Single,Harness PCB Joint",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,-,-,-,-,-280,280,-,-,-,-,-,-,-,-,-,-,-,-,-
+EAD63707539-C,2026-04,VH1,EAD63707539-C,"Dish Washer XF5,6 Dry Module,Harness Single,Harness Display",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,-,-,-,-,-280,280,-,-,-,-,-,-,-,-,-,-,-,-,-
+EAD63707540-C,2026-04,VH1,EAD63707540-C,"Dish Washer XF5,6 Dry Module,Harness Single,Harness Mood Light",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,-,-,-,-,-560,560,-,-,-,-,-,-,-,-,-,-,-,-,-
+EAD63845502-C,2026-04,VH1,EAD63845502-C,"Ref,,Harness Assembly,Ref Majesty 4D (Wifi Joint)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,20,-,-,-,-8020,12000,-,-,-,4000,-,-,-,-,-,-,-,-,-
+EAD63911344-C,2026-04,VH1,EAD63911344-C,"Ref,,Harness Assembly,T-VN6 F (CF Main)",EA,15411-00,Chi phí SXKD dở dang - gia công @재공품[임가공],35D,35D.E42,91,-,-,-,-,1000,-,-,-,1091,-,-,-,-,-,-,-,-,-
+EAD63911344-C-TUBA-089,2026-04,VH1,EAD63911344-C-TUBA-089,"Ref,,Harness Assembly-Tube,T-VN6 F (CF Main)",EA,15411-00,Chi phí SXKD dở dang - gia công @재공품[임가공],35D,35D.E42,91,-,-,-,-,1000,-,-,-,1091,-,-,-,-,-,-,-,-,-
+EAD63911348-C,2026-04,VH1,EAD63911348-C,"Ref,Harness Multi,Raptor2 (B) US (CF Main)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,41,-,-,-,-1456,2000,-,-,-,585,-,-,-,-,-,-,-,-,-
+EAD63911348-C-TUBA-089,2026-04,VH1,EAD63911348-C-TUBA-089,"Ref,Harness Multi,Raptor2 (B) US (CF Main)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,41,-,-,-,-1456,2000,-,-,-,585,-,-,-,-,-,-,-,-,-
+EAD63911352-C,2026-04,VH1,EAD63911352-C,"Ref,Harness Multi,Ref VB26 Main",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,1023,-,-,-,-1001,-,-,-,-,22,-,-,-,-,-,-,-,-,-
+EAD63911352-C-TUBA-089,2026-04,VH1,EAD63911352-C-TUBA-089,"Ref,Harness Multi,Ref VB26 Main",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,1023,-,-,-,-1001,-,-,-,-,22,-,-,-,-,-,-,-,-,-
+EAD63911358-C,2026-04,VH1,EAD63911358-C,"Ref,Harness Multi,F-VN6 B India (CF Main)",EA,15411-00,Chi phí SXKD dở dang - gia công @재공품[임가공],35D,35D.E42,1035,-,-,-,-2964,2000,-,-,-,71,-,-,-,-,-,-,-,-,-
+EAD63911358-C-TUBA-089,2026-04,VH1,EAD63911358-C-TUBA-089,"Ref,Harness Multi,F-VN6 B India (CF Main)",EA,15411-00,Chi phí SXKD dở dang - gia công @재공품[임가공],35D,35D.E42,1035,-,-,-,-2964,2000,-,-,-,71,-,-,-,-,-,-,-,-,-
+EAD63911418-C,2026-04,VH1,EAD63911418-C,"Ref,,Harness Assembly,T-VN6 F (Case joint)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,60,-,-,-,-484,1500,-,-,-,1076,-,-,-,-,-,-,-,-,-
+EAD63911420-C,2026-04,VH1,EAD63911420-C,"Ref,Harness Assembly,F-VN7 (Cabinet)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,1139,-,-,-,-3491,2500,-,-,-,148,-,-,-,-,-,-,-,-,-
+EAD63911511-C,2026-04,VH1,EAD63911511-C,"Ref,Harness Assembly,Ref VB26 Assembly",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,57,,,,,,,,,57,,,,,,,,,
+EAD63913527-C,2026-04,VH1,EAD63913527-C,"Ref,,Harness Multi,QT20 Main assembly",EA,15411-00,Chi phí SXKD dở dang - gia công @재공품[임가공],35D,35D.E42,2350,-,-,-,-11280,11000,-,-,-,2070,-,-,-,-,-,-,-,-,-
+EAD63913527-C-TUBA-089,2026-04,VH1,EAD63913527-C-TUBA-089,"Ref,,Harness Multi,QT20 Main assembly",EA,15411-00,Chi phí SXKD dở dang - gia công @재공품[임가공],35D,35D.E42,2350,-,-,-,-11280,11000,-,-,-,2070,-,-,-,-,-,-,-,-,-
+EAD63913527-C-TUBC-114,2026-04,VH1,EAD63913527-C-TUBC-114,"Ref,,Harness Multi,QT20 Main assembly",EA,15411-00,Chi phí SXKD dở dang - gia công @재공품[임가공],35D,35D.E42,2350,-,-,-,-11280,11000,-,-,-,2070,-,-,-,-,-,-,-,-,-
+EAD63954790-C,2026-04,VH1,EAD63954790-C,"WM T/L23,Harness Single,VBT23 VN Main",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,17,-,-,-,-1316,1300,-,-,-,1,-,-,-,-,-,-,-,-,-
+EAD63954791-C,2026-04,VH1,EAD63954791-C,"WM T/L23,Harness Single,VBT23 Korea Main",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,26,-,-,-,-1998,2000,-,-,-,28,-,-,-,-,-,-,-,-,-
+EAD64109903-C,2026-04,VH1,EAD64109903-C,"Ref,Harness Single,Majesty Holder Rail Joint",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,9004,-,-,-,-21002,18000,-,-,-,6002,-,-,-,-,-,-,-,-,-
+EAD64149412-C,2026-04,VH1,EAD64149412-C,"WM T/L23,Harness Single,VBT23 Motor",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,36,-,-,-,-2000,2000,-,-,-,36,-,-,-,-,-,-,-,-,-
+EAD64169020-C,2026-04,VH1,EAD64169020-C,"WM F/L24,,Harness Multi,FL24 Vivace V900 WD US",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,16,,,,,,,,,16,,,,,,,,,
+EAD64169023-C,2026-04,VH1,EAD64169023-C,"WM F/L24,,Harness Multi,FL24 Vivace V500 WD Chile",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,-,-,-,-,-2240,2500,-,-,-,260,-,-,-,-,-,-,-,-,-
+EAD64169024-C,2026-04,VH1,EAD64169024-C,"WM F/L24,,Harness Multi,FL24 Vivace V700 WD Peru",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,1000,-,-,-,-993,-,-,-,-,7,-,-,-,-,-,-,-,-,-
+EAD64169033-C,2026-04,VH1,EAD64169033-C,"WM F/L24,Harness Multi,FL24 VX 550 WD",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,-,-,-,-,-100,100,-,-,-,-,-,-,-,-,-,-,-,-,-
+EAD64545319-C,2026-04,VH1,EAD64545319-C,"WM F/L 27,,Harness Multi,Victor2 799 VH",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,6,,,,,,,,,6,,,,,,,,,
+EAD64545339-A-C,2026-04,VH1,EAD64545339-A-C,"WM F/L 27 CKD,,Harness Multi,Victor 2 Refresh better TN",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,-,-,-,-,-100,100,-,-,-,-,-,-,-,-,-,-,-,-,-
+EAD64545392-C,2026-04,VH1,EAD64545392-C,"WM F/L 27,,Harness Multi,FX Best US in VH",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,83,-,-,-,-1543,2500,-,-,-,1040,-,-,-,-,-,-,-,-,-
+EAD64545392-C-TUBA-075,2026-04,VH1,EAD64545392-C-TUBA-075,"WM F/L 27,,Harness Multi,FX Best US in VH",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,83,-,-,-,-1543,2500,-,-,-,1040,-,-,-,-,-,-,-,-,-
+EAD64545399-C,2026-04,VH1,EAD64545399-C,"WM F/L 27,,Harness Multi,FX Better US",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,85,,,,,,,,,85,,,,,,,,,
+EAD64545802-C,2026-04,VH1,EAD64545802-C,"WM F/L27,,Harness Single,Victor2",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,10,,,,,,,,,10,,,,,,,,,
+EAD64545802-C-TUBA-075,2026-04,VH1,EAD64545802-C-TUBA-075,"WM F/L27,,Harness Single,Victor2",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,10,,,,,,,,,10,,,,,,,,,
+EAD64587804-C,2026-04,VH1,EAD64587804-C,"WM F/L27,,Harness Single,Victor2(W)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,2908,-,-,-,-62900,68000,-,-,-,8008,-,-,-,-,-,-,-,-,-
+EAD64587813-C,2026-04,VH1,EAD64587813-C,"WM FX Best US,,Harness Single,Rotary",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,2000,,,,,,,,,2000,,,,,,,,,
+EAD64745627-C,2026-04,VH1,EAD64745627-C,"Ref,,Harness Assembly,Ref Majesty 3D (Case)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,24,,,,,,,,,24,,,,,,,,,
+EAD64745815-C,2026-04,VH1,EAD64745815-C,"Ref,,Harness Assembly,Ref Majesty (Door)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,1083,-,-,-,-5459,4500,-,-,-,124,-,-,-,-,-,-,-,-,-
+EAD64745815-C-TUBC-212,2026-04,VH1,EAD64745815-C-TUBC-212,"Ref,Harness Assembly,WIP-Tube Ref Majesty (Door)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,1083,-,-,-,-5459,4500,-,-,-,124,-,-,-,-,-,-,-,-,-
+EAD64745815-C-TUBC-214,2026-04,VH1,EAD64745815-C-TUBC-214,"Ref,Harness Assembly,WIP-Tube Ref Majesty (Door)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,1083,-,-,-,-5459,4500,-,-,-,124,-,-,-,-,-,-,-,-,-
+EAD64765409-C,2026-04,VH1,EAD64765409-C,"WM F/L 24,Harness Single,VX PCB Molding wire",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,2010,-,-,-,-2008,-,-,-,-,2,-,-,-,-,-,-,-,-,-
+EAD65606208-C,2026-04,VH1,EAD65606208-C,"Ref,Harness Assembly,Raptor2 (B) US (Cabinet)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,22,-,-,-,-2000,2000,-,-,-,22,-,-,-,-,-,-,-,-,-
+EAD65606209-C,2026-04,VH1,EAD65606209-C,"Ref,Harness Assembly,Ref Raptor (Pillar joint)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,32,-,-,-,-493,500,-,-,-,39,-,-,-,-,-,-,-,-,-
+EAD65616818-C,2026-04,VH1,EAD65616818-C,"Oven,Harness Multi,Oven Nova F/S Electric Basic Main",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,2074,-,-,-,-20046,22500,-,-,-,4528,-,-,-,-,-,-,-,-,-
+EAD65616820-C,2026-04,VH1,EAD65616820-C,"Oven,Harness Multi,Oven Nova F/S Main",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,17,-,-,-,-17,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+EAD65616822-C,2026-04,VH1,EAD65616822-C,"Oven,Harness Multi,Oven Nova F/S Better Main",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,2178,-,-,-,-9148,9000,-,-,-,2030,-,-,-,-,-,-,-,-,-
+EAD65895024-C,2026-04,VH1,EAD65895024-C,"Ref,,Harness Assembly,VS4CK SxS (Case dispenser)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,97,-,-,-,-3999,4000,-,-,-,98,-,-,-,-,-,-,-,-,-
+EAD65895024-C-TUBC-101,2026-04,VH1,EAD65895024-C-TUBC-101,"Ref,,Harness Assembly,VS4CK SxS (Case dispenser)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,97,-,-,-,-3999,4000,-,-,-,98,-,-,-,-,-,-,-,-,-
+EAD66006019-C,2026-04,VH1,EAD66006019-C,"WM F/L 27,Harness Multi,Victor2 Win Indonesia",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,-,-,-,-,-5991,6000,-,-,-,9,-,-,-,-,-,-,-,-,-
+EAD66010222-C,2026-04,VH1,EAD66010222-C,"WM F/L 27,Harness Multi,Victor2 CK Main",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,3166,-,-,-,-9342,8000,-,-,-,1824,-,-,-,-,-,-,-,-,-
+EAD66065901-C,2026-04,VH1,EAD66065901-C,"Ref,,Harness Assembly,VS4CK SxS (FM-H)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,-,-,-,-,-4897,5000,-,-,-,103,-,-,-,-,-,-,-,-,-
+EAD66065901-C,2026-04,VH1,EAD66065901-C,"Ref,,Harness Assembly,VS4CK SxS (FM-H)",EA,15411-00,Chi phí SXKD dở dang - gia công @재공품[임가공],35D,35D.E42,101,-,-,-,-101,500,-500,-,-,-,-,-,-,-,-,-,-,-,-
+EAD66091501-C,2026-04,VH1,EAD66091501-C,"Ref,,Harness Assembly,Ref Majesty 3D (CF Main)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,82,-,-,-,-2010,3000,-,-,-,1072,-,-,-,-,-,-,-,-,-
+EAD66091501-C-TUBA-089,2026-04,VH1,EAD66091501-C-TUBA-089,"Ref,,Harness Assembly,Ref Majesty 3D (CF Main)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,82,-,-,-,-2010,3000,-,-,-,1072,-,-,-,-,-,-,-,-,-
+EAD66091503-C,2026-04,VH1,EAD66091503-C,"Ref,,Harness Assembly,Ref Majesty 4D (CF Main)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,1100,-,-,-,-1488,1000,-,-,-,612,-,-,-,-,-,-,-,-,-
+EAD66091503-C-TUBA-089,2026-04,VH1,EAD66091503-C-TUBA-089,"Ref,,Harness Assembly,Ref Majesty 4D (CF Main)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,1100,-,-,-,-1488,1000,-,-,-,612,-,-,-,-,-,-,-,-,-
+EAD66091505-C,2026-04,VH1,EAD66091505-C,"Ref,Harness Multi,Ref Majesty 3D Basic (CF Main)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,50,,,,,,,,,50,,,,,,,,,
+EAD66091505-C-TUBA-089,2026-04,VH1,EAD66091505-C-TUBA-089,"Ref,Harness Multi,Ref Majesty 3D (CF Main)",EA,15410-00,Chi phí SXKD dở dang @재공품,35C,35C.E42,50,,,,,,,,,50,,,,,,,,,
+FOMA00360NA,2026-04,VH1,FOMA00360NA,",,FOAM PU,5T*80*80(3940EN4006E)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,2036,-,-,-,-2000,5000,-,-,-,5036,-,-,-,-,-,-,-,-,-
+FOMA00392NA,2026-04,VH1,FOMA00392NA,",,FOAM PU,8T*25*100 WH (Non flame retardant)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6105,-,-,-,-5596,110,-,-,-110,509,-,-,-,-,-,-,-,-,-
+FOMA00399NA,2026-04,VH1,FOMA00399NA,",,FOAM PU,8T*25*80 GY",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6105,-,-,-,-5596,30,-,-,-30,509,-,-,-,-,-,-,-,-,-
+FOMA00597NA,2026-04,VH1,FOMA00597NA,",,FOAM PU,8T*50*80",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,3000,-,-,-,-,-,-3000,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX00015NA,2026-04,VH1,HOUX00015NA,",,HOUSING ,611933",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3048,-,-,-,-10099,21400,-600,-,-,13749,-,-,-,-,-,-,-,-,-
+GC-HOUX00015NA,2026-04,VH1,HOUX00015NA,",,HOUSING ,611933",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX00021NA,2026-04,VH1,HOUX00021NA,",,HOUSING ,614538",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8519,-,-,-,-12918,14500,-4000,-,-,6101,-,-,-,-,-,-,-,-,-
+HOUX00027NA,2026-04,VH1,HOUX00027NA,",,HOUSING,615249",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,4834,-,-,-,-6468,4600,-,-,-,2966,-,-,-,-,-,-,-,-,-
+HOUX00048NA,2026-04,VH1,HOUX00048NA,",,HOUSING,621174",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,5217,-,-,-,-6462,5000,-1000,-,-,2755,-,-,-,-,-,-,-,-,-
+HOUX00052NA,2026-04,VH1,HOUX00052NA,",,HOUSING ,621934",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3048,-,-,-,-10099,17800,-,-,-,10749,-,-,-,-,-,-,-,-,-
+HOUX00057NA,2026-04,VH1,HOUX00057NA,",,HOUSING ,624159",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,11567,-,-,-,-17742,15000,-1000,-,-,7825,-,-,-,-,-,-,-,-,-
+HOUX00065NA,2026-04,VH1,HOUX00065NA,",,HOUSING ,624537",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,39855,-,-,-,-60156,59000,-7500,-,-,31199,-,-,-,-,-,-,-,-,-
+HOUX00070NA,2026-04,VH1,HOUX00070NA,",,HOUSING,625251",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8404,-,-,-,-9412,10100,-3000,-,-,6092,-,-,-,-,-,-,-,-,-
+HOUX00082NA,2026-04,VH1,HOUX00082NA,",,HOUSING,631130",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,18769,-,-,-,-29211,40035,-6000,-,-35,23558,-,-,-,-,-,-,-,-,-
+GC-HOUX00102NA,2026-04,VH1,HOUX00102NA,",,HOUSING ,635571",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX00133NA,2026-04,VH1,HOUX00133NA,",,HOUSING,1-174712-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,11195,-,-,-,-9165,9000,-,-,-,11030,-,-,-,-,-,-,-,-,-
+HOUX00139NA,2026-04,VH1,HOUX00139NA,",,HOUSING ,1201-12124",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,601,-,-,-,-4998,6500,-1000,-,-,1103,-,-,-,-,-,-,-,-,-
+HOUX00140NA,2026-04,VH1,HOUX00140NA,",,HOUSING ,1201-12126",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,701,-,-,-,-4998,6500,-1100,-,-,1103,-,-,-,-,-,-,-,-,-
+HOUX00161NA,2026-04,VH1,HOUX00161NA,",,HOUSING,12507HS-04L",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-560,560,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX00182NA,2026-04,VH1,HOUX00182NA,",,HOUSING,1301-12105",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3182,-,-,-,-3498,3000,-1000,-,-,1684,-,-,-,-,-,-,-,-,-
+HOUX00202NA,2026-04,VH1,HOUX00202NA,",,HOUSING ,171370-5",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,13384,-,-,-,-22238,20000,-,-,-,11146,-,-,-,-,-,-,-,-,-
+GC-HOUX00205NA,2026-04,VH1,HOUX00205NA,",,HOUSING ,172075-1",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX00211NA,2026-04,VH1,HOUX00211NA,",,HOUSING ,1743165-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,1016,-,-,-,-3333,6900,-,-,-,4583,-,-,-,-,-,-,-,-,-
+GC-HOUX00211NA,2026-04,VH1,HOUX00211NA,",,HOUSING ,1743165-1",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX00212NA,2026-04,VH1,HOUX00212NA,",,HOUSING ,1743165-2",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,1184,-,-,-,-10967,21450,-950,-,-,10717,-,-,-,-,-,-,-,-,-
+GC-HOUX00212NA,2026-04,VH1,HOUX00212NA,",,HOUSING ,1743165-2",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX00213NA,2026-04,VH1,HOUX00213NA,",,HOUSING ,1743165-5",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,1184,-,-,-,-10967,21950,-1450,-,-,10717,-,-,-,-,-,-,-,-,-
+GC-HOUX00214NA,2026-04,VH1,HOUX00214NA,",,HOUSING ,1743165-8",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX00224NA,2026-04,VH1,HOUX00224NA,",,HOUSING ,1746063-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6350,-,-,-,-11280,10000,-,-,-,5070,-,-,-,-,-,-,-,-,-
+HOUX00234NA,2026-04,VH1,HOUX00234NA,",,HOUSING,176282-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,18769,-,-,-,-29211,40021,-6000,-,-21,23558,-,-,-,-,-,-,-,-,-
+HOUX00240NA,2026-04,VH1,HOUX00240NA,",,HOUSING,177900-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,91,-,-,-,-,3000,-1000,-,-,2091,-,-,-,-,-,-,-,-,-
+HOUX00243NA,2026-04,VH1,HOUX00243NA,",,HOUSING,177901-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3083,-,-,-,-5459,6500,-1000,-,-,3124,-,-,-,-,-,-,-,-,-
+HOUX00258NA,2026-04,VH1,HOUX00258NA,",,HOUSING,179463-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,97,-,-,-,-3999,6000,-1500,-,-,598,-,-,-,-,-,-,-,-,-
+HOUX00261NA,2026-04,VH1,HOUX00261NA,",,HOUSING,179465-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,100,-,-,-,-,-,-100,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX00303NA,2026-04,VH1,HOUX00303NA,",,HOUSING,2005542-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,10,,,,,,,,,10,,,,,,,,,
+HOUX00315NA,2026-04,VH1,HOUX00315NA,",,HOUSING,2108504-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,97,-,-,-,-3999,5000,-500,-,-,598,-,-,-,-,-,-,-,-,-
+HOUX00316NA,2026-04,VH1,HOUX00316NA,",,HOUSING ,2108505-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,601,-,-,-,-4998,6500,-1000,-,-,1103,-,-,-,-,-,-,-,-,-
+HOUX00341NA,2026-04,VH1,HOUX00341NA,",,HOUSING ,25045HP-04B",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,2083,-,-,-,-5729,7780,-1000,-,-,3134,-,-,-,-,-,-,-,-,-
+HOUX00369NA,2026-04,VH1,HOUX00369NA,",,HOUSING ,25048HS-03",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6433,-,-,-,-13363,14060,-,-,-,7130,-,-,-,-,-,-,-,-,-
+HOUX00374NA,2026-04,VH1,HOUX00374NA,",,HOUSING,25048HS-04",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,7103,-,-,-,-13579,20600,-1000,-,-,13124,-,-,-,-,-,-,-,-,-
+HOUX00378NA,2026-04,VH1,HOUX00378NA,",,HOUSING ,25048HS-05",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-270,280,-,-,-,10,-,-,-,-,-,-,-,-,-
+HOUX00383NA,2026-04,VH1,HOUX00383NA,",,HOUSING,25048HS-07",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3083,-,-,-,-5459,5500,-1000,-,-,2124,-,-,-,-,-,-,-,-,-
+HOUX00385NA,2026-04,VH1,HOUX00385NA,",,HOUSING,25048HS-08",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3180,-,-,-,-9458,12500,-2500,-,-,3722,-,-,-,-,-,-,-,-,-
+HOUX00396NA,2026-04,VH1,HOUX00396NA,",,HOUSING,316086-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3180,-,-,-,-9458,12500,-2500,-,-,3722,-,-,-,-,-,-,-,-,-
+HOUX00398NA,2026-04,VH1,HOUX00398NA,",,HOUSING,316088-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,5286,-,-,-,-10489,8500,-1000,-,-,2297,-,-,-,-,-,-,-,-,-
+HOUX00399NA,2026-04,VH1,HOUX00399NA,",,HOUSING ,316089-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,2699,-,-,-,-3975,3500,-,-,-,2224,-,-,-,-,-,-,-,-,-
+HOUX00400NA,2026-04,VH1,HOUX00400NA,",,HOUSING,316090-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,1160,-,-,-,-1972,2550,-,-,-50,1688,-,-,-,-,-,-,-,-,-
+HOUX00422NA,2026-04,VH1,HOUX00422NA,",,HOUSING,35022-0006",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,4000,-,-,-,-,-,-4000,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX00443NA,2026-04,VH1,HOUX00443NA,",,HOUSING,35127-1000",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,18769,-,-,-,-29211,33494,-473,-,-21,22558,-,-,-,-,-,-,-,-,-
+HOUX00444NA,2026-04,VH1,HOUX00444NA,",,HOUSING,35128-0200",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,7591,-,-,-,-20063,29021,-4000,-,-21,12528,-,-,-,-,-,-,-,-,-
+HOUX00445NA,2026-04,VH1,HOUX00445NA,",,HOUSING,35128-1000",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,18769,-,-,-,-29211,40021,-6000,-,-21,23558,-,-,-,-,-,-,-,-,-
+HOUX00448NA,2026-04,VH1,HOUX00448NA,",,HOUSING,35150-0109",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3206,-,-,-,-3498,3000,-1000,-,-,1708,-,-,-,-,-,-,-,-,-
+HOUX00453NA,2026-04,VH1,HOUX00453NA,",,HOUSING ,35150-0209",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,4106,-,-,-,-6460,6500,-1000,-,-,3146,-,-,-,-,-,-,-,-,-
+HOUX00457NA,2026-04,VH1,HOUX00457NA,",,HOUSING ,35150-0219",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3114,-,-,-,-2457,-,-,-,-,657,-,-,-,-,-,-,-,-,-
+HOUX00458NA,2026-04,VH1,HOUX00458NA,",,HOUSING ,35150-0300",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,4179,-,-,-,-5314,11200,-,-,-,10065,-,-,-,-,-,-,-,-,-
+HOUX00476NA,2026-04,VH1,HOUX00476NA,",,HOUSING,35150-0619",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6350,-,-,-,-11280,9000,-,-,-,4070,-,-,-,-,-,-,-,-,-
+HOUX00487NA,2026-04,VH1,HOUX00487NA,",,HOUSING,35151-0119",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3206,-,-,-,-3498,3000,-1000,-,-,1708,-,-,-,-,-,-,-,-,-
+HOUX00492NA,2026-04,VH1,HOUX00492NA,",,HOUSING ,35151-0310",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,2143,-,-,-,-3314,4200,-,-,-,3029,-,-,-,-,-,-,-,-,-
+HOUX00494NA,2026-04,VH1,HOUX00494NA,",,HOUSING ,35151-0319",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,5119,-,-,-,-7459,11500,-1000,-,-,8160,-,-,-,-,-,-,-,-,-
+HOUX00526NA,2026-04,VH1,HOUX00526NA,",,HOUSING ,35184-0200",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,4,-,-,-,-4,216,-,-,-,216,-,-,-,-,-,-,-,-,-
+HOUX00539NA,2026-04,VH1,HOUX00539NA,",,HOUSING ,35189-0390",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-810,840,-,-,-,30,-,-,-,-,-,-,-,-,-
+HOUX00589NA,2026-04,VH1,HOUX00589NA,",,HOUSING ,49506-0700",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-270,280,-,-,-,10,-,-,-,-,-,-,-,-,-
+HOUX00611NA,2026-04,VH1,HOUX00611NA,",,HOUSING ,5557-06R(039012060)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,300,-,-,-,-300,653,-,-,-,653,-,-,-,-,-,-,-,-,-
+HOUX00627NA,2026-04,VH1,HOUX00627NA,",,HOUSING ,610224T",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8172,-,-,-,-9342,7000,-1000,-,-,4830,-,-,-,-,-,-,-,-,-
+GC-HOUX00641NA,2026-04,VH1,HOUX00641NA,",,HOUSING ,611163T",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX00642NA,2026-04,VH1,HOUX00642NA,",,HOUSING ,611166T",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,1016,-,-,-,-3873,9260,-1800,-,-,4603,-,-,-,-,-,-,-,-,-
+HOUX00659NA,2026-04,VH1,HOUX00659NA,",,HOUSING ,615042-2",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,9356,-,-,-,-20209,30900,-4500,-,-,15547,-,-,-,-,-,-,-,-,-
+HOUX00661NA,2026-04,VH1,HOUX00661NA,",,HOUSING,615307T",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3182,-,-,-,-3498,3000,-1000,-,-,1684,-,-,-,-,-,-,-,-,-
+HOUX00663NA,2026-04,VH1,HOUX00663NA,",,HOUSING ,615310T",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,18004,-,-,-,-21002,18000,-3000,-,-,12002,-,-,-,-,-,-,-,-,-
+HOUX00665NA,2026-04,VH1,HOUX00665NA,",,HOUSING,615570-2",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,75076,-,-,-,-116844,132084,-,-,-84,90232,-,-,-,-,-,-,-,-,-
+HOUX00666NA,2026-04,VH1,HOUX00666NA,",,HOUSING,615571-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,37538,-,-,-,-58422,80042,-12000,-,-42,47116,-,-,-,-,-,-,-,-,-
+HOUX00667NA,2026-04,VH1,HOUX00667NA,",,HOUSING,615572-5",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,75076,-,-,-,-116844,160084,-24000,-,-84,94232,-,-,-,-,-,-,-,-,-
+GC-HOUX00718NA,2026-04,VH1,HOUX00718NA,",,HOUSING ,621164T",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+GC-HOUX00730NA,2026-04,VH1,HOUX00730NA,",,HOUSING ,621934-5",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX00733NA,2026-04,VH1,HOUX00733NA,",,HOUSING ,622537T",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,9464,-,-,-,-13737,11000,-,-,-,6727,-,-,-,-,-,-,-,-,-
+HOUX00739NA,2026-04,VH1,HOUX00739NA,",,HOUSING,624159-2",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8422,-,-,-,-8919,9000,-3000,-,-,5503,-,-,-,-,-,-,-,-,-
+HOUX00743NA,2026-04,VH1,HOUX00743NA,",,HOUSING ,625040-2",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3000,-,-,-,-,-,-3000,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX00745NA,2026-04,VH1,HOUX00745NA,",,HOUSING,625306T",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3273,-,-,-,-3498,6000,-2000,-,-,3775,-,-,-,-,-,-,-,-,-
+HOUX00746NA,2026-04,VH1,HOUX00746NA,",,HOUSING,625308T",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,97,-,-,-,-3999,5000,-500,-,-,598,-,-,-,-,-,-,-,-,-
+HOUX00750NA,2026-04,VH1,HOUX00750NA,",,HOUSING,625458-2",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3083,-,-,-,-5459,5500,-1000,-,-,2124,-,-,-,-,-,-,-,-,-
+HOUX00751NA,2026-04,VH1,HOUX00751NA,",,HOUSING,625461-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6350,-,-,-,-11280,8000,-,-,-,3070,-,-,-,-,-,-,-,-,-
+HOUX00753NA,2026-04,VH1,HOUX00753NA,",,HOUSING,625483-120",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,2083,-,-,-,-5459,7500,-1000,-,-,3124,-,-,-,-,-,-,-,-,-
+HOUX00789NA,2026-04,VH1,HOUX00789NA,",,HOUSING ,634528T",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-270,280,-,-,-,10,-,-,-,-,-,-,-,-,-
+GC-HOUX00804NA,2026-04,VH1,HOUX00804NA,",,HOUSING ,635148T",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+GC-HOUX00806NA,2026-04,VH1,HOUX00806NA,",,HOUSING ,635148T-2",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX00820NA,2026-04,VH1,HOUX00820NA,",,HOUSING,65001HS-12",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,14772,-,-,-,-20469,18280,-2000,-,-,10583,-,-,-,-,-,-,-,-,-
+HOUX00827NA,2026-04,VH1,HOUX00827NA,",,HOUSING ,68416-0304",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,5036,-,-,-,-2000,5000,-3000,-,-,5036,-,-,-,-,-,-,-,-,-
+GC-HOUX00829NA,2026-04,VH1,HOUX00829NA,",,HOUSING ,70001HS-04A",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX00847NA,2026-04,VH1,HOUX00847NA,",,HOUSING,917686-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3083,-,-,-,-5459,6500,-1000,-,-,3124,-,-,-,-,-,-,-,-,-
+HOUX00848NA,2026-04,VH1,HOUX00848NA,",,HOUSING,917687-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3083,-,-,-,-5459,6500,-1000,-,-,3124,-,-,-,-,-,-,-,-,-
+HOUX00850NA,2026-04,VH1,HOUX00850NA,",,HOUSING ,917689-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,5346,-,-,-,-10973,9000,-,-,-,3373,-,-,-,-,-,-,-,-,-
+HOUX00851NA,2026-04,VH1,HOUX00851NA,",,HOUSING ,917689-2",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,57,,,,,,,,,57,,,,,,,,,
+HOUX00852NA,2026-04,VH1,HOUX00852NA,",,HOUSING ,917690-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,7083,-,-,-,-6755,7800,-1000,-,-,7128,-,-,-,-,-,-,-,-,-
+HOUX00853NA,2026-04,VH1,HOUX00853NA,",,HOUSING ,917691-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,1100,-,-,-,-1488,1000,-,-,-,612,-,-,-,-,-,-,-,-,-
+HOUX00855NA,2026-04,VH1,HOUX00855NA,",,HOUSING ,917692-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3280,-,-,-,-9458,10000,-100,-,-,3722,-,-,-,-,-,-,-,-,-
+HOUX00858NA,2026-04,VH1,HOUX00858NA,",,HOUSING ,917694-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,15783,-,-,-,-28019,26500,-1000,-,-,13264,-,-,-,-,-,-,-,-,-
+HOUX00861NA,2026-04,VH1,HOUX00861NA,",,HOUSING ,917696-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6350,-,-,-,-11280,10000,-,-,-,5070,-,-,-,-,-,-,-,-,-
+HOUX00890NA,2026-04,VH1,HOUX00890NA,",,HOUSING ,CHD1140-05",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,2036,-,-,-,-2000,5020,-,-,-20,5036,-,-,-,-,-,-,-,-,-
+HOUX00978NA,2026-04,VH1,HOUX00978NA,",,HOUSING,EH688.500-007-B35-960-A",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,18769,-,-,-,-29211,40070,-6000,-,-11,23617,-,-,-,-,-,-,-,-,-
+HOUX01081NA,2026-04,VH1,HOUX01081NA,",,HOUSING ,PNDP-22V-Z",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,5308,-,-,-,-12553,17100,-,-,-,9855,-,-,-,-,-,-,-,-,-
+HOUX01083NA,2026-04,VH1,HOUX01083NA,",,HOUSING,PNDP-24V-Z",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3114,-,-,-,-2457,-,-,-,-,657,-,-,-,-,-,-,-,-,-
+HOUX01084NA,2026-04,VH1,HOUX01084NA,",,HOUSING ,PNDP-26V-Z",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,7949,-,-,-,-12748,16200,-1000,-,-,10401,-,-,-,-,-,-,-,-,-
+HOUX01085NA,2026-04,VH1,HOUX01085NA,",,HOUSING,PNDP-34V-R",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8322,-,-,-,-8919,9000,-2674,-,-326,5403,-,-,-,-,-,-,-,-,-
+HOUX01086NA,2026-04,VH1,HOUX01086NA,",,HOUSING ,PNDP-34V-Z",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,7462,-,-,-,-8955,10062,-2906,-,-56,5607,-,-,-,-,-,-,-,-,-
+HOUX01095NA,2026-04,VH1,HOUX01095NA,",,HOUSING ,PS-250-2B-11-WGL1-KBR",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-270,280,-,-,-,10,-,-,-,-,-,-,-,-,-
+HOUX01106NA,2026-04,VH1,HOUX01106NA,",,HOUSING ,PWAP-05V-WGL1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,166,-,-,-,-3086,5000,-,-,-,2080,-,-,-,-,-,-,-,-,-
+HOUX01107NA,2026-04,VH1,HOUX01107NA,",,HOUSING ,PWAP-06V-WGL1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-6191,11664,-464,-,-,5009,-,-,-,-,-,-,-,-,-
+GC-HOUX01108NA,2026-04,VH1,HOUX01108NA,",,HOUSING ,PWAP-07V-WGL1",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX01110NA,2026-04,VH1,HOUX01110NA,",,HOUSING ,PWAP-08V-WGL1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,2010,-,-,-,-2278,280,-,-,-,12,-,-,-,-,-,-,-,-,-
+HOUX01113NA,2026-04,VH1,HOUX01113NA,",,HOUSING ,PWAP-10V-WGL1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-6361,11380,-,-,-,5019,-,-,-,-,-,-,-,-,-
+HOUX01114NA,2026-04,VH1,HOUX01114NA,",,HOUSING ,PWAP-11V-WGL1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,14401,-,-,-,-24830,24963,-1963,-,-,12571,-,-,-,-,-,-,-,-,-
+HOUX01120NA,2026-04,VH1,HOUX01120NA,",,HOUSING ,PWBP-03V-WGL1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,10,,,,,,,,,10,,,,,,,,,
+HOUX01121NA,2026-04,VH1,HOUX01121NA,",,HOUSING ,PWBP-03V-WGL1-E",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-100,100,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX01122NA,2026-04,VH1,HOUX01122NA,",,HOUSING ,PWBP-03V-WGL1-R",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3381,-,-,-,-11298,19200,-2000,-,-,9283,-,-,-,-,-,-,-,-,-
+HOUX01123NA,2026-04,VH1,HOUX01123NA,",,HOUSING ,PWBP-03V-WGL1-Y",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,2311,-,-,-,-4857,7700,-,-,-,5154,-,-,-,-,-,-,-,-,-
+HOUX01124NA,2026-04,VH1,HOUX01124NA,",,HOUSING ,PWBP-04V-WGL1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,7350,-,-,-,-20579,28780,-,-,-,15551,-,-,-,-,-,-,-,-,-
+HOUX01125NA,2026-04,VH1,HOUX01125NA,",,HOUSING ,PWBP-04V-WGL1-E",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,83,-,-,-,-1543,2500,-,-,-,1040,-,-,-,-,-,-,-,-,-
+HOUX01126NA,2026-04,VH1,HOUX01126NA,",,HOUSING ,PWBP-04V-WGL1-Y",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,83,-,-,-,-1543,2500,-,-,-,1040,-,-,-,-,-,-,-,-,-
+HOUX01127NA,2026-04,VH1,HOUX01127NA,",,HOUSING ,PWBP-06V-3WGL1-H",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,9356,-,-,-,-14218,15400,-,-,-,10538,-,-,-,-,-,-,-,-,-
+HOUX01128NA,2026-04,VH1,HOUX01128NA,",,HOUSING ,PWBP-06V-WGL1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,1182,-,-,-,-7316,14600,-1800,-,-,6666,-,-,-,-,-,-,-,-,-
+GC-HOUX01128NA,2026-04,VH1,HOUX01128NA,",,HOUSING ,PWBP-06V-WGL1",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX01130NA,2026-04,VH1,HOUX01130NA,",,HOUSING ,PWBP-06V-WGL1-R",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8340,-,-,-,-10985,9600,-1000,-,-,5955,-,-,-,-,-,-,-,-,-
+HOUX01131NA,2026-04,VH1,HOUX01131NA,",,HOUSING ,PWBP-08V-WGL1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,1016,-,-,-,-3603,7192,-12,-,-,4593,-,-,-,-,-,-,-,-,-
+HOUX01132NA,2026-04,VH1,HOUX01132NA,",,HOUSING ,PWBP-10V-WGL1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,168,-,-,-,-7634,9411,-811,-,-,1134,-,-,-,-,-,-,-,-,-
+HOUX01136NA,2026-04,VH1,HOUX01136NA,",,HOUSING ,PWBR-03VF-WGL1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6166,-,-,-,-9342,9000,-1000,-,-,4824,-,-,-,-,-,-,-,-,-
+HOUX01137NA,2026-04,VH1,HOUX01137NA,",,HOUSING ,PWBR-03VF-WGL1-E",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,1016,-,-,-,-3333,7100,-200,-,-,4583,-,-,-,-,-,-,-,-,-
+GC-HOUX01138NA,2026-04,VH1,HOUX01138NA,",,HOUSING ,PWBR-03VF-WGL1-R",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX01139NA,2026-04,VH1,HOUX01139NA,",,HOUSING ,PWBR-04VF-WGL1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8188,-,-,-,-11542,9100,-900,-,-,4846,-,-,-,-,-,-,-,-,-
+HOUX01145NA,2026-04,VH1,HOUX01145NA,",,HOUSING ,PWBR-10VF-WGL1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-200,200,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX01146NA,2026-04,VH1,HOUX01146NA,",,HOUSING ,PWBR-10V-WGL1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,4221,-,-,-,-5690,8800,-,-,-,7331,-,-,-,-,-,-,-,-,-
+HOUX01148NA,2026-04,VH1,HOUX01148NA,",,HOUSING ,PWBR-12V-WGL1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,601,-,-,-,-4998,6500,-1000,-,-,1103,-,-,-,-,-,-,-,-,-
+HOUX01149NA,2026-04,VH1,HOUX01149NA,",,HOUSING ,PWCP-03V-3WGL1-H",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,13642,-,-,-,-20946,28238,-2338,-,-,18596,-,-,-,-,-,-,-,-,-
+HOUX01152NA,2026-04,VH1,HOUX01152NA,",,HOUSING ,PWCP-03V-WGL1-R",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,168,-,-,-,-1543,2500,-,-,-,1125,-,-,-,-,-,-,-,-,-
+HOUX01156NA,2026-04,VH1,HOUX01156NA,",,HOUSING ,PWCP-04V-WGL1-R",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,2000,-,-,-,-19000,31000,-2000,-,-,12000,-,-,-,-,-,-,-,-,-
+HOUX01160NA,2026-04,VH1,HOUX01160NA,",,HOUSING ,PWEP-03V-WGL1-S",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3048,-,-,-,-7729,14180,-,-,-,9499,-,-,-,-,-,-,-,-,-
+HOUX01190NA,2026-04,VH1,HOUX01190NA,",,HOUSING ,SL-11T",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-540,560,-,-,-,20,-,-,-,-,-,-,-,-,-
+HOUX01191NA,2026-04,VH1,HOUX01191NA,",,HOUSING ,SL-12T",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,4400,-,-,-,-28600,55200,-4400,-,-,26600,-,-,-,-,-,-,-,-,-
+HOUX01194NA,2026-04,VH1,HOUX01194NA,",,HOUSING ,SL-15TF",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8172,-,-,-,-9612,7000,-720,-,-,4840,-,-,-,-,-,-,-,-,-
+HOUX01195NA,2026-04,VH1,HOUX01195NA,",,HOUSING ,SL-15TF RD",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8356,-,-,-,-20579,24780,-,-,-,12557,-,-,-,-,-,-,-,-,-
+HOUX01200NA,2026-04,VH1,HOUX01200NA,",,HOUSING ,SL-19T",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-270,280,-,-,-,10,-,-,-,-,-,-,-,-,-
+HOUX01204NA,2026-04,VH1,HOUX01204NA,",,HOUSING ,SL-20T",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,9356,-,-,-,-20309,28572,-4072,-,-,13547,-,-,-,-,-,-,-,-,-
+HOUX01206NA,2026-04,VH1,HOUX01206NA,",,HOUSING ,SL-33",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,11499,-,-,-,-23523,26600,-,-,-,14576,-,-,-,-,-,-,-,-,-
+GC-HOUX01208NA,2026-04,VH1,HOUX01208NA,",,HOUSING ,SL-44",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX01210NA,2026-04,VH1,HOUX01210NA,",,HOUSING ,SL-46T",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,1184,-,-,-,-10867,17450,-50,-,-,7717,-,-,-,-,-,-,-,-,-
+HOUX01211NA,2026-04,VH1,HOUX01211NA,",,HOUSING ,SL-48M",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8340,-,-,-,-22967,25500,-4900,-,-,5973,-,-,-,-,-,-,-,-,-
+HOUX01213NA,2026-04,VH1,HOUX01213NA,",,HOUSING ,SL-49P",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8340,-,-,-,-22967,26600,-2000,-,-,9973,-,-,-,-,-,-,-,-,-
+HOUX01215NA,2026-04,VH1,HOUX01215NA,",,HOUSING ,SL-58T",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,11382,-,-,-,-22307,30560,-4060,-,-,15575,-,-,-,-,-,-,-,-,-
+HOUX01216NA,2026-04,VH1,HOUX01216NA,",,HOUSING ,SL-58T BL",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,20972,-,-,-,-45148,53300,-,-,-,29124,-,-,-,-,-,-,-,-,-
+HOUX01217NA,2026-04,VH1,HOUX01217NA,",,HOUSING ,SL-58T RD",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,12398,-,-,-,-22307,27800,-,-,-,17891,-,-,-,-,-,-,-,-,-
+HOUX01234NA,2026-04,VH1,HOUX01234NA,",,HOUSING ,SMH200-05H",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,168,-,-,-,-1543,2500,-,-,-,1125,-,-,-,-,-,-,-,-,-
+HOUX01238NA,2026-04,VH1,HOUX01238NA,",,HOUSING ,SMH200-06",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,20402,-,-,-,-58000,59000,-4000,-,-,17402,-,-,-,-,-,-,-,-,-
+HOUX01239NA,2026-04,VH1,HOUX01239NA,",,HOUSING ,SMH200-06H",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,29801,-,-,-,-76993,85000,-5000,-,-,32808,-,-,-,-,-,-,-,-,-
+HOUX01241NA,2026-04,VH1,HOUX01241NA,",,HOUSING ,SMH200-07H",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,168,-,-,-,-1543,2500,-,-,-,1125,-,-,-,-,-,-,-,-,-
+HOUX01245NA,2026-04,VH1,HOUX01245NA,",,HOUSING,SMH200-08H",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,97,-,-,-,-3999,6000,-1500,-,-,598,-,-,-,-,-,-,-,-,-
+HOUX01251NA,2026-04,VH1,HOUX01251NA,",,HOUSING ,SMH200-10H",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8172,-,-,-,-9442,6962,-862,-,-,4830,-,-,-,-,-,-,-,-,-
+HOUX01259NA,2026-04,VH1,HOUX01259NA,",,HOUSING,SMH200-13H",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-,2000,-,-,-,2000,-,-,-,-,-,-,-,-,-
+HOUX01273NA,2026-04,VH1,HOUX01273NA,",,HOUSING ,SMH200-H04PR",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-270,280,-,-,-,10,-,-,-,-,-,-,-,-,-
+HOUX01320NA,2026-04,VH1,HOUX01320NA,",,HOUSING ,SMH250-06",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-,2000,-,-,-,2000,-,-,-,-,-,-,-,-,-
+HOUX01320NA,2026-04,VH1,HOUX01320NA,",,HOUSING ,SMH250-06",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E31,-,-,-,-,-1296,3300,-,-,-,2004,-,-,-,-,-,-,-,-,-
+HOUX01362NA,2026-04,VH1,HOUX01362NA,",,HOUSING ,SMH600-03D(YE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,1016,-,-,-,-3333,4900,-,-,-,2583,-,-,-,-,-,-,-,-,-
+GC-HOUX01362NA,2026-04,VH1,HOUX01362NA,",,HOUSING ,SMH600-03D(YE)",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX01364NA,2026-04,VH1,HOUX01364NA,",,HOUSING ,SMH600-04D",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,9356,-,-,-,-20309,30500,-3000,-,-,16547,-,-,-,-,-,-,-,-,-
+HOUX01440NA,2026-04,VH1,HOUX01440NA,",,HOUSING ,VHR-1N-WGL1-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,168,-,-,-,-1543,2500,-,-,-,1125,-,-,-,-,-,-,-,-,-
+HOUX01476NA,2026-04,VH1,HOUX01476NA,",,HOUSING,XMP-16V-WGL1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3180,-,-,-,-9458,12500,-2500,-,-,3722,-,-,-,-,-,-,-,-,-
+HOUX01519NA,2026-04,VH1,HOUX01519NA,",,HOUSING,YH396-03JR",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,14772,-,-,-,-20199,18000,-2000,-,-,10573,-,-,-,-,-,-,-,-,-
+HOUX01531NA,2026-04,VH1,HOUX01531NA,",,HOUSING ,YH396-05JR",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6350,-,-,-,-11280,10000,-,-,-,5070,-,-,-,-,-,-,-,-,-
+HOUX01538NA,2026-04,VH1,HOUX01538NA,",,HOUSING,YH396-06JR",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,18769,-,-,-,-29211,40011,-6000,-,-11,23558,-,-,-,-,-,-,-,-,-
+HOUX01540NA,2026-04,VH1,HOUX01540NA,",,HOUSING ,YH396-07JR",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8422,-,-,-,-8919,9000,-3000,-,-,5503,-,-,-,-,-,-,-,-,-
+HOUX01548NA,2026-04,VH1,HOUX01548NA,",,HOUSING ,YH396-09JR",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,20791,-,-,-,-31211,40021,-6000,-,-21,23580,-,-,-,-,-,-,-,-,-
+HOUX01553NA,2026-04,VH1,HOUX01553NA,",,HOUSING,YH396-11JR",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,18769,-,-,-,-29211,40035,-6000,-,-35,23558,-,-,-,-,-,-,-,-,-
+HOUX01562NA,2026-04,VH1,HOUX01562NA,",,HOUSING,YH396-H05PL",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,11178,-,-,-,-9148,9000,-,-,-,11030,-,-,-,-,-,-,-,-,-
+HOUX01563NA,2026-04,VH1,HOUX01563NA,",,TPA ,YH396-H05PR(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,11178,-,-,-,-9148,9000,-,-,-,11030,-,-,-,-,-,-,-,-,-
+HOUX01566NA,2026-04,VH1,HOUX01566NA,",,HOUSING ,YH500-06C(BL)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,9356,-,-,-,-14218,16400,-,-,-,11538,-,-,-,-,-,-,-,-,-
+HOUX01576NA,2026-04,VH1,HOUX01576NA,",,HOUSING,YLP-03V",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6105,-,-,-,-5596,-,-,-,-,509,-,-,-,-,-,-,-,-,-
+HOUX01594NA,2026-04,VH1,HOUX01594NA,",,HOUSING,YLR-03VF",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6105,-,-,-,-5596,-,-,-,-,509,-,-,-,-,-,-,-,-,-
+HOUX01605NA,2026-04,VH1,HOUX01605NA,",,HOUSING,YLR-16V",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8422,-,-,-,-8919,9000,-3000,-,-,5503,-,-,-,-,-,-,-,-,-
+HOUX01659NA,2026-04,VH1,HOUX01659NA,",,HOUSING,PNDP-28V-Z",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3083,-,-,-,-5459,6500,-1000,-,-,3124,-,-,-,-,-,-,-,-,-
+HOUX01694NA,2026-04,VH1,HOUX01694NA,",,HOUSING,204102-0429(NT)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3083,-,-,-,-5459,6500,-1000,-,-,3124,-,-,-,-,-,-,-,-,-
+HOUX01842NA,2026-04,VH1,HOUX01842NA,",,HOUSING,2369507-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3883,-,-,-,-14742,22979,-179,-,-,11941,-,-,-,-,-,-,-,-,-
+HOUX01867NA,2026-04,VH1,HOUX01867NA,",,HOUSING ,5037-5023(5264-02)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,4,-,-,-,-4,216,-,-,-,216,-,-,-,-,-,-,-,-,-
+HOUX01875NA,2026-04,VH1,HOUX01875NA,",,HOUSING ,35155-0200",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,4,-,-,-,-4,216,-,-,-,216,-,-,-,-,-,-,-,-,-
+HOUX01879NA,2026-04,VH1,HOUX01879NA,",,HOUSING ,3901-2040(5557-04R)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,300,-,-,-,-300,653,-,-,-,653,-,-,-,-,-,-,-,-,-
+HOUX01880NA,2026-04,VH1,HOUX01880NA,",,HOUSING ,3901-2080(5557-08R)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,600,-,-,-,-600,1306,-,-,-,1306,-,-,-,-,-,-,-,-,-
+HOUX01881NA,2026-04,VH1,HOUX01881NA,",,HOUSING ,3901-2100(5557-10R)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,600,-,-,-,-600,1306,-,-,-,1306,-,-,-,-,-,-,-,-,-
+HOUX01882NA,2026-04,VH1,HOUX01882NA,",,HOUSING ,3901-2120(5557-12R)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,300,-,-,-,-300,653,-,-,-,653,-,-,-,-,-,-,-,-,-
+HOUX01884NA,2026-04,VH1,HOUX01884NA,",,HOUSING ,3901-2021(5559-02P)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,2,-,-,-,-2,108,-,-,-,108,-,-,-,-,-,-,-,-,-
+HOUX01885NA,2026-04,VH1,HOUX01885NA,",,HOUSING ,35155-0300",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,300,-,-,-,-300,653,-,-,-,653,-,-,-,-,-,-,-,-,-
+GC-HOUX01923NA,2026-04,VH1,HOUX01923NA,",,HOUSING,625306",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX01931NA,2026-04,VH1,HOUX01931NA,",,HOUSING ,625311T",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,7396,-,-,-,-7443,4000,-1000,-,-,2953,-,-,-,-,-,-,-,-,-
+HOUX01932NA,2026-04,VH1,HOUX01932NA,",,HOUSING,625311T-2",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8422,-,-,-,-8919,9000,-3000,-,-,5503,-,-,-,-,-,-,-,-,-
+HOUX01936NA,2026-04,VH1,HOUX01936NA,",,HOUSING,625316T-2",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8422,-,-,-,-8919,9000,-3000,-,-,5503,-,-,-,-,-,-,-,-,-
+HOUX01940NA,2026-04,VH1,HOUX01940NA,",,HOUSING ,20017HS-02000",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,300,-,-,-,-300,653,-,-,-,653,-,-,-,-,-,-,-,-,-
+HOUX01958NA,2026-04,VH1,HOUX01958NA,",,HOUSING ,SL-46T (CY404)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-100,100,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX01959NA,2026-04,VH1,HOUX01959NA,",,HOUSING ,610876P-2 (TJC6201-3Y BL)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-100,100,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX01960NA,2026-04,VH1,HOUX01960NA,",,HOUSING ,SL-33 (CY364)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-100,100,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX01961NA,2026-04,VH1,HOUX01961NA,",,HOUSING ,1743492-1 WH (CY375 WH)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-200,200,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX01962NA,2026-04,VH1,HOUX01962NA,",,HOUSING ,1743492-1 GY (CY375 GY)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-100,100,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX01969NA,2026-04,VH1,HOUX01969NA,",,HOUSING ,2369509-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,192,-,-,-,-7634,11500,-1900,-,-,2158,-,-,-,-,-,-,-,-,-
+HOUX01995NA,2026-04,VH1,HOUX01995NA,",,HOUSING,25045HP-06B",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-5991,11000,-,-,-,5009,-,-,-,-,-,-,-,-,-
+GC-HOUX02023NA,2026-04,VH1,HOUX02023NA,",,HOUSING,SL-18TF WH",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX02048NA,2026-04,VH1,HOUX02048NA,",,HOUSING ,2369508-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-12082,15100,-,-,-,3018,-,-,-,-,-,-,-,-,-
+HOUX02056NA,2026-04,VH1,HOUX02056NA,",,HOUSING,2369505-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,2006,-,-,-,-,-,-2000,-,-,6,-,-,-,-,-,-,-,-,-
+HOUX02060NA,2026-04,VH1,HOUX02060NA,",,HOUSING,SMH200-H10H3",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8953,-,-,-,-65021,99100,-7000,-,-,36032,-,-,-,-,-,-,-,-,-
+HOUX02061NA,2026-04,VH1,HOUX02061NA,",,HOUSING,SMH200-H12H3",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-280,280,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX02064NA,2026-04,VH1,HOUX02064NA,",,HOUSING,2369504-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-100,100,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX02074NA,2026-04,VH1,HOUX02074NA,",,HOUSING,SMH200-H02H3",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3045,-,-,-,-2021,7000,-,-,-,8024,-,-,-,-,-,-,-,-,-
+HOUX02087NA,2026-04,VH1,HOUX02087NA,",,HOUSING,ZNDP-22V-A-S",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,5190,-,-,-,-5421,6000,-2000,-,-,3769,-,-,-,-,-,-,-,-,-
+HOUX02103NA,2026-04,VH1,HOUX02103NA,",,HOUSING,YH500-H02F",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-270,280,-,-,-,10,-,-,-,-,-,-,-,-,-
+HOUX02121NA,2026-04,VH1,HOUX02121NA,",,HOUSING,EH688.500-007-A-A35-960-A",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,18769,-,-,-,-29211,40021,-6000,-,-21,23558,-,-,-,-,-,-,-,-,-
+HOUX02142NA,2026-04,VH1,HOUX02142NA,",,HOUSING,SL-59T",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-270,280,-,-,-,10,-,-,-,-,-,-,-,-,-
+HOUX02305NA,2026-04,VH1,HOUX02305NA,",,HOUSING,PNDP-34V-E",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-270,280,-,-,-,10,-,-,-,-,-,-,-,-,-
+HOUX02491NA,2026-04,VH1,HOUX02491NA,",,HOUSING,PNDP-26V-R",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,160,-,-,-,-484,1500,-100,-,-,1076,-,-,-,-,-,-,-,-,-
+HOUX02529NA,2026-04,VH1,HOUX02529NA,",,HOUSING,XMR-18VF-WGL1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,100,-,-,-,-,-,-100,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX02544NA,2026-04,VH1,HOUX02544NA,",,HOUSING,SMH200-H04H3",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-830,840,-,-,-,10,-,-,-,-,-,-,-,-,-
+HOUX02555NA,2026-04,VH1,HOUX02555NA,",,HOUSING,SMH200-H06H3",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-560,560,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX02605NA,2026-04,VH1,HOUX02605NA,",,HOUSING,SMH200-H11H3",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-280,280,-,-,-,-,-,-,-,-,-,-,-,-,-
+HOUX02724NA,2026-04,VH1,HOUX02724NA,",,HOUSING,85002HP-06",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,11695,-,-,-,-12417,14000,-4000,-,-,9278,-,-,-,-,-,-,-,-,-
+HOUX02742NA,2026-04,VH1,HOUX02742NA,",,HOUSING,XMR-16V-1WGL1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3957,-,-,-,-8496,7500,-150,-,-,2811,-,-,-,-,-,-,-,-,-
+HOUX02758NA,2026-04,VH1,HOUX02758NA,",,HOUSING,85002HS-04",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,7034,-,-,-,-10958,9000,-,-,-,5076,-,-,-,-,-,-,-,-,-
+HOUX02759NA,2026-04,VH1,HOUX02759NA,",,HOUSING,85002HS-02",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,7034,-,-,-,-10958,9000,-,-,-,5076,-,-,-,-,-,-,-,-,-
+MLDA00207NA,2026-04,VH1,MLDA00207NA,",,MOLD SUPPORTER HOUSING,MEG66727703",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,5146,-,-,-,-5421,4000,-,-,-,3725,-,-,-,-,-,-,-,-,-
+SELA00029NA,2026-04,VH1,SELA00029NA,",,SEAL WIRE,PWEG-03",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3048,-,-,-,-7729,17080,-900,-,-,11499,-,-,-,-,-,-,-,-,-
+SELA00031NA,2026-04,VH1,SELA00031NA,",,SEAL WIRE,SL-15S2 WH",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-540,560,-,-,-,20,-,-,-,-,-,-,-,-,-
+SELA00032NA,2026-04,VH1,SELA00032NA,",,SEAL WIRE,SL-15S2(GY)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8172,-,-,-,-9612,7280,-1000,-,-,4840,-,-,-,-,-,-,-,-,-
+SELA00035NA,2026-04,VH1,SELA00035NA,",,SEAL WIRE,SL-15S3(GY)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,18712,-,-,-,-41158,53560,-,-,-,31114,-,-,-,-,-,-,-,-,-
+SELA00036NA,2026-04,VH1,SELA00036NA,",,SEAL WIRE,SL-47S1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,1016,-,-,-,-3233,4800,-,-,-,2583,-,-,-,-,-,-,-,-,-
+SELA00037NA,2026-04,VH1,SELA00037NA,",,SEAL WIRE,SL-47S2",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,168,-,-,-,-7734,14299,-599,-,-,6134,-,-,-,-,-,-,-,-,-
+SELA00066NA,2026-04,VH1,SELA00066NA,",,SEAL WIRE,2404009-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,10,,,,,,,,,10,,,,,,,,,
+SLVA00014NA,2026-04,VH1,SLVA00014NA,",,SLEEVE,DFA18-2.8(UL)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6360,-,-,-,-18916,24651,-4651,-,-,7444,-,-,-,-,-,-,-,-,-
+SLVB00001NA,2026-04,VH1,SLVB00001NA,",,SLEEVE SILICONE,SDFAN187NR",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-270,280,-,-,-,10,-,-,-,-,-,-,-,-,-
+SLVB00002NA,2026-04,VH1,SLVB00002NA,",,SLEEVE SILICONE,SDFAN 250NR (FLAME RETARDANT)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-810,840,-,-,-,30,-,-,-,-,-,-,-,-,-
+SLVB00006NA,2026-04,VH1,SLVB00006NA,",,SLEEVE SILICONE,SDFFN(신)25-4.0",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,26768,-,-,-,-44476,40000,-,-,-,22292,-,-,-,-,-,-,-,-,-
+TAPA00013NA,2026-04,VH1,TAPA00013NA,",,TAPE PVC,PVC W19*20 BK",M,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,86801.27,-,-,-,-185360.22,261808.97,-15268.97,-,-,147981.05,-,-,-,-,-,-,-,-,-
+GC-TAPA00076NA,2026-04,VH1,TAPA00076NA,",,TAPE,19MM BK(19*20)",M,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,338.91,-,-,-,-34.53,-,-304,-,-0.38,-,-,-,-,-,-,-,-,-,-
+TAPA00081NA,2026-04,VH1,TAPA00081NA,",,TAPE PVC,PVC W19*20 RD",M,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,2190.54,-,-,-,-3396.98,2800,-,-,-,1593.56,-,-,-,-,-,-,-,-,-
+TAPB00003NA,2026-04,VH1,TAPB00003NA,",,TAPE ACETATE,ACETATE W19",M,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,33785.45,-,-,-,-65448.04,108270,-18480,-,-,58127.41,-,-,-,-,-,-,-,-,-
+GC-TAPB00003NA,2026-04,VH1,TAPB00003NA,",,TAPE ACETATE,ACETATE W19",M,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,626.69,-,-,-,-52.33,-,-574,-,-0.36,-,-,-,-,-,-,-,-,-,-
+TAPB00010NA,2026-04,VH1,TAPB00010NA,",,ACETATE W50*30,TAPE ACETATE",M,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,105.45,-,-,-,-90.36,-,-,-,-,15.09,-,-,-,-,-,-,-,-,-
+TAPB00012NA,2026-04,VH1,TAPB00012NA,",,TAPE ACETATE,ACETATE W60*30",M,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,135,-,-,-,-225,270,-,-,-,180,-,-,-,-,-,-,-,-,-
+TAPC00001NA,2026-04,VH1,TAPC00001NA,",,TAPE ALUMINIUM,ALUMINIUM W10*50",M,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,850,-,-,-,-,-,-850,-,-,-,-,-,-,-,-,-,-,-,-
+TAPD00013NA,2026-04,VH1,TAPD00013NA,",,TAPE COTTON,COTTON W40",M,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,1481,-,-,-,-1119.2,-,-,-,-,361.8,-,-,-,-,-,-,-,-,-
+GC-TEBX00011NA,2026-04,VH1,TEBX00011NA,",,TERMINAL BLOCK,MEG65559702",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+TPAX00001NA,2026-04,VH1,TPAX00001NA,",,TPA,35129-0200",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,7591,-,-,-,-20063,29011,-4000,-,-11,12528,-,-,-,-,-,-,-,-,-
+TPAX00004NA,2026-04,VH1,TPAX00004NA,",,TPA ,635317",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,70783,-,-,-,-76538,73000,-21000,-,-,46245,-,-,-,-,-,-,-,-,-
+GC-TPAX00004NA,2026-04,VH1,TPAX00004NA,",,TPA ,635317",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+TPAX00005NA,2026-04,VH1,TPAX00005NA,",,TPA ,P635318",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8469,-,-,-,-12918,14000,-3500,-,-,6051,-,-,-,-,-,-,-,-,-
+TPAX00009NA,2026-04,VH1,TPAX00009NA,",,TPA,1201-18224",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,1202,-,-,-,-9996,13000,-2000,-,-,2206,-,-,-,-,-,-,-,-,-
+TPAX00010NA,2026-04,VH1,TPAX00010NA,",,TPA ,1201-18226",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,1402,-,-,-,-9996,13000,-2200,-,-,2206,-,-,-,-,-,-,-,-,-
+TPAX00015NA,2026-04,VH1,TPAX00015NA,",,TPA,1301-18205",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3182,-,-,-,-3498,3000,-1000,-,-,1684,-,-,-,-,-,-,-,-,-
+TPAX00026NA,2026-04,VH1,TPAX00026NA,",,TPA ,1746076-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6350,-,-,-,-11280,10000,-,-,-,5070,-,-,-,-,-,-,-,-,-
+TPAX00027NA,2026-04,VH1,TPAX00027NA,",,TPA,177918-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,188,-,-,-,-3999,9000,-2500,-,-,2689,-,-,-,-,-,-,-,-,-
+TPAX00028NA,2026-04,VH1,TPAX00028NA,",,TPA ,177919-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6166,-,-,-,-10918,13000,-2000,-,-,6248,-,-,-,-,-,-,-,-,-
+TPAX00035NA,2026-04,VH1,TPAX00035NA,",,TPA,2005543-5",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,10,,,,,,,,,10,,,,,,,,,
+TPAX00047NA,2026-04,VH1,TPAX00047NA,",,TPA,35129-0500",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,56307,-,-,-,-87633,120033,-18000,-,-33,70674,-,-,-,-,-,-,-,-,-
+TPAX00048NA,2026-04,VH1,TPAX00048NA,",,TPA ,35150-0290",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,26270,-,-,-,-42757,36500,-1000,-,-,19013,-,-,-,-,-,-,-,-,-
+TPAX00051NA,2026-04,VH1,TPAX00051NA,",,TPA ,35150-0390",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,24141,-,-,-,-38647,48900,-1000,-,-,33394,-,-,-,-,-,-,-,-,-
+TPAX00053NA,2026-04,VH1,TPAX00053NA,",,TPA,35182-0190",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6412,-,-,-,-6996,6000,-2000,-,-,3416,-,-,-,-,-,-,-,-,-
+TPAX00055NA,2026-04,VH1,TPAX00055NA,",,TPA,35182-0290",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6166,-,-,-,-10918,13000,-2000,-,-,6248,-,-,-,-,-,-,-,-,-
+TPAX00065NA,2026-04,VH1,TPAX00065NA,",,TPA ,49507-0790",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-270,280,-,-,-,10,-,-,-,-,-,-,-,-,-
+GC-TPAX00079NA,2026-04,VH1,TPAX00079NA,",,TPA ,631165-2",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,178,-,-,-,-178,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+TPAX00080NA,2026-04,VH1,TPAX00080NA,",,TPA ,631168-2",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6233,-,-,-,-10335,12813,-1353,-,-,7358,-,-,-,-,-,-,-,-,-
+TPAX00084NA,2026-04,VH1,TPAX00084NA,",,TPA,631228-5",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,5666,-,-,-,-10918,13500,-2000,-,-,6248,-,-,-,-,-,-,-,-,-
+TPAX00086NA,2026-04,VH1,TPAX00086NA,",,TPA ,631230-5",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,18928,-,-,-,-27474,22000,-,-,-,13454,-,-,-,-,-,-,-,-,-
+TPAX00097NA,2026-04,VH1,TPAX00097NA,",,TPA ,634164-2",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,26339,-,-,-,-37941,35000,-3000,-,-,20398,-,-,-,-,-,-,-,-,-
+TPAX00101NA,2026-04,VH1,TPAX00101NA,",,TPA ,634487-2",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,47874,-,-,-,-73074,72500,-11000,-,-,36300,-,-,-,-,-,-,-,-,-
+TPAX00107NA,2026-04,VH1,TPAX00107NA,",,TPA ,635043-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,12356,-,-,-,-20209,26400,-3000,-,-,15547,-,-,-,-,-,-,-,-,-
+GC-TPAX00110NA,2026-04,VH1,TPAX00110NA,",,TPA ,635149-1",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,178,-,-,-,-178,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+TPAX00111NA,2026-04,VH1,TPAX00111NA,",,TPA ,635252-2",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,21358,-,-,-,-26810,24300,-4000,-,-,14848,-,-,-,-,-,-,-,-,-
+TPAX00116NA,2026-04,VH1,TPAX00116NA,",,TPA,635620-2",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6166,-,-,-,-10918,13000,-2000,-,-,6248,-,-,-,-,-,-,-,-,-
+TPAX00117NA,2026-04,VH1,TPAX00117NA,",,TPA ,635636-3",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8172,-,-,-,-9342,7000,-1000,-,-,4830,-,-,-,-,-,-,-,-,-
+TPAX00132NA,2026-04,VH1,TPAX00132NA,",,TPA,65001HS-06RT",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,29544,-,-,-,-40938,36560,-4000,-,-,21166,-,-,-,-,-,-,-,-,-
+GC-TPAX00133NA,2026-04,VH1,TPAX00133NA,",,TPA,70001HS-02RT",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,178,-,-,-,-178,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+TPAX00139NA,2026-04,VH1,TPAX00139NA,",,TPA,917698-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6263,-,-,-,-14917,19000,-3500,-,-,6846,-,-,-,-,-,-,-,-,-
+TPAX00140NA,2026-04,VH1,TPAX00140NA,",,TPA,917699-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3083,-,-,-,-5459,6500,-1000,-,-,3124,-,-,-,-,-,-,-,-,-
+TPAX00141NA,2026-04,VH1,TPAX00141NA,",,TPA ,917700-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,5286,-,-,-,-10489,8500,-1000,-,-,2297,-,-,-,-,-,-,-,-,-
+TPAX00142NA,2026-04,VH1,TPAX00142NA,",,TPA ,917701-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8102,-,-,-,-14948,13500,-1000,-,-,5654,-,-,-,-,-,-,-,-,-
+TPAX00143NA,2026-04,VH1,TPAX00143NA,",,TPA ,917702-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8243,-,-,-,-8727,10300,-1000,-,-,8816,-,-,-,-,-,-,-,-,-
+TPAX00144NA,2026-04,VH1,TPAX00144NA,",,TPA,917703-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,1100,-,-,-,-1488,1000,-,-,-,612,-,-,-,-,-,-,-,-,-
+TPAX00145NA,2026-04,VH1,TPAX00145NA,",,TPA ,917704-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3180,-,-,-,-9458,12500,-2500,-,-,3722,-,-,-,-,-,-,-,-,-
+TPAX00146NA,2026-04,VH1,TPAX00146NA,",,TPA ,917705-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,1396,-,-,-,-17994,21000,-1000,-,-,3402,-,-,-,-,-,-,-,-,-
+TPAX00147NA,2026-04,VH1,TPAX00147NA,",,TPA ,917706-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,15783,-,-,-,-28019,28500,-1000,-,-,15264,-,-,-,-,-,-,-,-,-
+TPAX00149NA,2026-04,VH1,TPAX00149NA,",,TPA ,917708-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6350,-,-,-,-11280,11000,-,-,-,6070,-,-,-,-,-,-,-,-,-
+TPAX00153NA,2026-04,VH1,TPAX00153NA,",,TPA ,CYS375-YL",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-300,300,-,-,-,-,-,-,-,-,-,-,-,-,-
+TPAX00183NA,2026-04,VH1,TPAX00183NA,",,TPA ,HL-N1140-06",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,2036,-,-,-,-2000,5000,-,-,-,5036,-,-,-,-,-,-,-,-,-
+TPAX00197NA,2026-04,VH1,TPAX00197NA,",,TPA ,PWBS-02V",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,31408,-,-,-,-70414,83960,-,-,-,44954,-,-,-,-,-,-,-,-,-
+TPAX00198NA,2026-04,VH1,TPAX00198NA,",,TPA ,PWBS-03V",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,48634,-,-,-,-91728,117000,-,-,-,73906,-,-,-,-,-,-,-,-,-
+GC-TPAX00198NA,2026-04,VH1,TPAX00198NA,",,TPA ,PWBS-03V",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,267,-,-,-,-267,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+TPAX00199NA,2026-04,VH1,TPAX00199NA,",,TPA ,PWBS-04V",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,4835,-,-,-,-22200,31420,-1560,-,-,12495,-,-,-,-,-,-,-,-,-
+TPAX00200NA,2026-04,VH1,TPAX00200NA,",,TPA ,PWBS-05V",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8778,-,-,-,-27048,51982,-6782,-,-,26930,-,-,-,-,-,-,-,-,-
+TPAX00201NA,2026-04,VH1,TPAX00201NA,",,TPA ,PWCS-02V",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,4000,-,-,-,-38000,62000,-4000,-,-,24000,-,-,-,-,-,-,-,-,-
+TPAX00202NA,2026-04,VH1,TPAX00202NA,",,TPA ,PWCS-03V",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,13810,-,-,-,-22489,28400,-,-,-,19721,-,-,-,-,-,-,-,-,-
+TPAX00203NA,2026-04,VH1,TPAX00203NA,",,TPA ,PWES-03V-R",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3048,-,-,-,-7729,19080,-4900,-,-,9499,-,-,-,-,-,-,-,-,-
+TPAX00205NA,2026-04,VH1,TPAX00205NA,",,TPA ,SL-15TPA",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8172,-,-,-,-9612,7280,-1000,-,-,4840,-,-,-,-,-,-,-,-,-
+TPAX00206NA,2026-04,VH1,TPAX00206NA,",,TPA ,SL-15TPA RD",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,9356,-,-,-,-20579,29560,-4780,-,-,13557,-,-,-,-,-,-,-,-,-
+TPAX00209NA,2026-04,VH1,TPAX00209NA,",,TPA ,SL-58TPA",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,43752,-,-,-,-89762,106600,-,-,-,60590,-,-,-,-,-,-,-,-,-
+TPAX00211NA,2026-04,VH1,TPAX00211NA,",,TPA ,SMH200-02HRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3045,-,-,-,-2021,7000,-,-,-,8024,-,-,-,-,-,-,-,-,-
+TPAX00213NA,2026-04,VH1,TPAX00213NA,",,TPA ,SMH200-04HRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-1100,1120,-,-,-,20,-,-,-,-,-,-,-,-,-
+TPAX00214NA,2026-04,VH1,TPAX00214NA,",,TPA ,SMH200-05HRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,168,-,-,-,-1543,2500,-,-,-,1125,-,-,-,-,-,-,-,-,-
+TPAX00215NA,2026-04,VH1,TPAX00215NA,",,TPA ,SMH200-06HRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,29801,-,-,-,-77553,85560,-5000,-,-,32808,-,-,-,-,-,-,-,-,-
+TPAX00216NA,2026-04,VH1,TPAX00216NA,",,TPA ,SMH200-07HRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,168,-,-,-,-1543,2500,-,-,-,1125,-,-,-,-,-,-,-,-,-
+TPAX00217NA,2026-04,VH1,TPAX00217NA,",,TPA,SMH200-08HRT",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,97,-,-,-,-3999,6000,-1500,-,-,598,-,-,-,-,-,-,-,-,-
+TPAX00219NA,2026-04,VH1,TPAX00219NA,",,TPA ,SMH200-10HRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,17125,-,-,-,-74463,106300,-8100,-,-,40862,-,-,-,-,-,-,-,-,-
+TPAX00220NA,2026-04,VH1,TPAX00220NA,",,TPA ,SMH200-11HRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-280,280,-,-,-,-,-,-,-,-,-,-,-,-,-
+TPAX00221NA,2026-04,VH1,TPAX00221NA,",,TPA,SMH200-12HRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-280,280,-,-,-,-,-,-,-,-,-,-,-,-,-
+TPAX00222NA,2026-04,VH1,TPAX00222NA,",,TPA,SMH200-13HRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-,2000,-,-,-,2000,-,-,-,-,-,-,-,-,-
+TPAX00229NA,2026-04,VH1,TPAX00229NA,",,TPA ,SMH250J-03RT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6433,-,-,-,-13363,13060,-,-,-,6130,-,-,-,-,-,-,-,-,-
+TPAX00231NA,2026-04,VH1,TPAX00231NA,",,TPA ,SMH250J-04RT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,10186,-,-,-,-19308,27380,-2000,-,-,16258,-,-,-,-,-,-,-,-,-
+TPAX00232NA,2026-04,VH1,TPAX00232NA,",,TPA ,SMH250J-05RT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-270,280,-,-,-,10,-,-,-,-,-,-,-,-,-
+TPAX00233NA,2026-04,VH1,TPAX00233NA,",,TPA ,SMH250J-06RT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-5991,11000,-,-,-,5009,-,-,-,-,-,-,-,-,-
+TPAX00234NA,2026-04,VH1,TPAX00234NA,",,TPA,SMH250J-07RT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3083,-,-,-,-5459,4500,-1000,-,-,1124,-,-,-,-,-,-,-,-,-
+TPAX00235NA,2026-04,VH1,TPAX00235NA,",,TPA,SMH250J-08RT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,3180,-,-,-,-9458,11500,-2500,-,-,2722,-,-,-,-,-,-,-,-,-
+TPAX00244NA,2026-04,VH1,TPAX00244NA,",,TPA ,SMH600-02DRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,18712,-,-,-,-40618,53200,-200,-,-,31094,-,-,-,-,-,-,-,-,-
+TPAX00246NA,2026-04,VH1,TPAX00246NA,",,TPA ,SMH600-03DRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,1016,-,-,-,-3333,8700,-1800,-,-,4583,-,-,-,-,-,-,-,-,-
+GC-TPAX00246NA,2026-04,VH1,TPAX00246NA,",,TPA ,SMH600-03DRT(RE)",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+TPAX00251NA,2026-04,VH1,TPAX00251NA,",,TPA ,TJC6201-3AYS RD",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-100,100,-,-,-,-,-,-,-,-,-,-,-,-,-
+TPAX00279NA,2026-04,VH1,TPAX00279NA,",,TPA,YH396-03JRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,14772,-,-,-,-20199,19000,-2000,-,-,11573,-,-,-,-,-,-,-,-,-
+TPAX00282NA,2026-04,VH1,TPAX00282NA,",,TPA ,YH396-05JRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6350,-,-,-,-11280,6600,-,-,-100,1570,-,-,-,-,-,-,-,-,-
+TPAX00284NA,2026-04,VH1,TPAX00284NA,",,TPA,YH396-06JRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,18769,-,-,-,-29211,40011,-6000,-,-11,23558,-,-,-,-,-,-,-,-,-
+TPAX00285NA,2026-04,VH1,TPAX00285NA,",,TPA ,YH396-07JRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,8422,-,-,-,-8919,8000,-2000,-,-,5503,-,-,-,-,-,-,-,-,-
+TPAX00288NA,2026-04,VH1,TPAX00288NA,",,TPA ,YH396-09JRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,20791,-,-,-,-31211,40021,-6000,-,-21,23580,-,-,-,-,-,-,-,-,-
+TPAX00291NA,2026-04,VH1,TPAX00291NA,",,TPA,YH396-11JRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,18769,-,-,-,-29211,40024,-6000,-,-24,23558,-,-,-,-,-,-,-,-,-
+TPAX00299NA,2026-04,VH1,TPAX00299NA,",,TPA ,YH500-03CRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,17696,-,-,-,-25203,28000,-4000,-,-,16493,-,-,-,-,-,-,-,-,-
+TPAX00303NA,2026-04,VH1,TPAX00303NA,",,TPA ,YLS-03V",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,12210,-,-,-,-11192,-,-,-,-,1018,-,-,-,-,-,-,-,-,-
+TPAX00307NA,2026-04,VH1,TPAX00307NA,",,TPA,YLS-16V",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,11648,-,-,-,-13371,16000,-5000,-,-,9277,-,-,-,-,-,-,-,-,-
+TPAX00336NA,2026-04,VH1,TPAX00336NA,",,TPA ,2369510-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,7766,-,-,-,-29484,49900,-6300,-,-,21882,-,-,-,-,-,-,-,-,-
+TPAX00345NA,2026-04,VH1,TPAX00345NA,",,TPA ,2369511-1",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,2390,-,-,-,-39532,57200,-13700,-,-,6358,-,-,-,-,-,-,-,-,-
+GC-TPAX00367NA,2026-04,VH1,TPAX00367NA,",,TPA ,SL-18TPA RD",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+TPAX00373NA,2026-04,VH1,TPAX00373NA,",,TPA,XMS-08V / PWASX-08V-K",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,15984,-,-,-,-38186,44280,-9000,-,-,13078,-,-,-,-,-,-,-,-,-
+GC-TPAX00375NA,2026-04,VH1,TPAX00375NA,",,TPA,XMS-07V / PWASX-07V-K",EA,15211-00,Nguyên vật liệu chính - gia công @원재료[임가공],31D,31D.E11,89,-,-,-,-89,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+TPAX00376NA,2026-04,VH1,TPAX00376NA,",,TPA,XMS-11V / PWASX-11V-K",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,13901,-,-,-,-24830,38000,-1500,-,-,25571,-,-,-,-,-,-,-,-,-
+TPAX00377NA,2026-04,VH1,TPAX00377NA,",,TPA,XMS-10V / PWASX-10V-K",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-6361,13300,-1920,-,-,5019,-,-,-,-,-,-,-,-,-
+TPAX00381NA,2026-04,VH1,TPAX00381NA,",,TPA,XMS-05V / PWASX-05V-K",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,166,-,-,-,-3086,5000,-,-,-,2080,-,-,-,-,-,-,-,-,-
+TPAX00383NA,2026-04,VH1,TPAX00383NA,",,TPA,PNDS-34V-K",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,31568,-,-,-,-36288,36771,-10011,-,-,22040,-,-,-,-,-,-,-,-,-
+TPAX00384NA,2026-04,VH1,TPAX00384NA,",,TPA,XMS-06V / PWASX-06V-K",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-6191,12745,-1545,-,-,5009,-,-,-,-,-,-,-,-,-
+TPAX00385NA,2026-04,VH1,TPAX00385NA,",,TPA,PNDS-22V-K",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,10616,-,-,-,-25106,34200,-,-,-,19710,-,-,-,-,-,-,-,-,-
+TPAX00386NA,2026-04,VH1,TPAX00386NA,",,TPA,PNDS-24V-K",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6228,-,-,-,-4914,-,-,-,-,1314,-,-,-,-,-,-,-,-,-
+TPAX00388NA,2026-04,VH1,TPAX00388NA,",,TPA,PNDS-26V-K",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,16018,-,-,-,-26464,35400,-2000,-,-,22954,-,-,-,-,-,-,-,-,-
+TPAX00389NA,2026-04,VH1,TPAX00389NA,",,TPA,ZNDS-22V-K",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,5190,-,-,-,-5421,6150,-2000,-,-150,3769,-,-,-,-,-,-,-,-,-
+TPAX00391NA,2026-04,VH1,TPAX00391NA,",,TPA,YH500-02FRT(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-270,280,-,-,-,10,-,-,-,-,-,-,-,-,-
+TPAX00402NA,2026-04,VH1,TPAX00402NA,",,TPA,SL-59TPA",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,-,-,-,-,-270,280,-,-,-,10,-,-,-,-,-,-,-,-,-
+TPAX00495NA,2026-04,VH1,TPAX00495NA,",,TPA,PNDS-28V-K",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,6166,-,-,-,-10918,13000,-2000,-,-,6248,-,-,-,-,-,-,-,-,-
+TPAX00563NA,2026-04,VH1,TPAX00563NA,",,TPA,85002RT-H03",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,23390,-,-,-,-24834,28000,-8000,-,-,18556,-,-,-,-,-,-,-,-,-
+TPAX00572NA,2026-04,VH1,TPAX00572NA,",,TPA,85002RT-H03B(RE)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,7034,-,-,-,-10958,9000,-,-,-,5076,-,-,-,-,-,-,-,-,-
+TPAX00573NA,2026-04,VH1,TPAX00573NA,",,TPA,85002RT-H03A",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E11,7034,-,-,-,-10958,9000,-,-,-,5076,-,-,-,-,-,-,-,-,-
+TUBA00116NA,2026-04,VH1,TUBA00116NA,",,TUBE PVC,PVC NUMBERING WH 3.2PHI (CN19/12MM)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,300,-,-,-,-300,653,-,-,-,653,-,-,-,-,-,-,-,-,-
+TUBA00117NA,2026-04,VH1,TUBA00117NA,",,TUBE PVC,PVC NUMBERING WH 3.2PHI (MBP/10MM)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,2,-,-,-,-2,108,-,-,-,108,-,-,-,-,-,-,-,-,-
+TUBA00118NA,2026-04,VH1,TUBA00118NA,",,TUBE PVC,PVC NUMBERING WH 3.2PHI (CDUP/12MM)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,298,-,-,-,-298,545,-,-,-,545,-,-,-,-,-,-,-,-,-
+TUBA00119NA,2026-04,VH1,TUBA00119NA,",,TUBE PVC,PVC NUMBERING WH 3.2PHI (CDU/10MM)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,300,-,-,-,-300,678,-,-,-25,653,-,-,-,-,-,-,-,-,-
+TUBA00120NA,2026-04,VH1,TUBA00120NA,",,TUBE PVC,PVC NUMBERING WH 3.2PHI (CN16/12MM)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,300,-,-,-,-300,653,-,-,-,653,-,-,-,-,-,-,-,-,-
+TUBA00125NA,2026-04,VH1,TUBA00125NA,",,TUBE PVC,PVC NUMBERING WH 3.2PHI (SPRP/12MM)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,300,-,-,-,-300,653,-,-,-,653,-,-,-,-,-,-,-,-,-
+TUBA00126NA,2026-04,VH1,TUBA00126NA,",,TUBE PVC,PVC NUMBERING WH 3.2PHI (SPR/10MM)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,300,-,-,-,-300,653,-,-,-,653,-,-,-,-,-,-,-,-,-
+TUBA00136NA,2026-04,VH1,TUBA00136NA,",,TUBE PVC,PVC NUMBERING WH 3.2PHI (SPR2/12MM)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,300,-,-,-,-300,653,-,-,-,653,-,-,-,-,-,-,-,-,-
+TUBA00232NA,2026-04,VH1,TUBA00232NA,",,TUBE PVC,PVC NUMBERING WH 3.2PHI (P/S(MBP)/12MM)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,298,-,-,-,-298,545,-,-,-,545,-,-,-,-,-,-,-,-,-
+TUBA00235NA,2026-04,VH1,TUBA00235NA,",,TUBE PVC,PVC NUMBERING WH 3.2PHI (SENS/12MM)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,300,-,-,-,-300,653,-,-,-,653,-,-,-,-,-,-,-,-,-
+TUBA00240NA,2026-04,VH1,TUBA00240NA,",,TUBE PVC,PVC NUMBERING WH 3.2PHI (CDUF IF/12MM)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,2,-,-,-,-2,108,-,-,-,108,-,-,-,-,-,-,-,-,-
+TUBA00241NA,2026-04,VH1,TUBA00241NA,",,TUBE PVC,PVC NUMBERING WH 3.2PHI (CDUF/12MM)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,2,-,-,-,-2,108,-,-,-,108,-,-,-,-,-,-,-,-,-
+TUBA00249NA,2026-04,VH1,TUBA00249NA,",,TUBE PVC,PVC NUMBERING WH 3.2PHI (LED-D/12MM)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,2,-,-,-,-2,108,-,-,-,108,-,-,-,-,-,-,-,-,-
+TUBA00251NA,2026-04,VH1,TUBA00251NA,",,TUBE PVC,PVC NUMBERING WH 3.2PHI (HUB PWR/12MM)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,2,-,-,-,-2,108,-,-,-,108,-,-,-,-,-,-,-,-,-
+TUBA00255NA,2026-04,VH1,TUBA00255NA,",,TUBE PVC,PVC NUMBERING WH 3.2PHI (LED/12MM)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,2,-,-,-,-2,108,-,-,-,108,-,-,-,-,-,-,-,-,-
+TUBA00256NA,2026-04,VH1,TUBA00256NA,",,TUBE PVC,PVC NUMBERING WH 3.2PHI (LED-C/12MM)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,4,-,-,-,-4,216,-,-,-,216,-,-,-,-,-,-,-,-,-
+TUBA00261NA,2026-04,VH1,TUBA00261NA,",,TUBE PVC,PVC NUMBERING WH 3.2PHI (PS-CDU/12MM)",EA,15210-00,Nguyên vật liệu chính @원재료,31C,31C.E15,2,-,-,-,-2,113,-,-,-5,108,-,-,-,-,-,-,-,-,-
